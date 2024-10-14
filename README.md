@@ -1,6 +1,6 @@
 # fontawesome-dl
 
-`fontawesome-dl` is a command-line tool that allows you to download any FontAwesome icon (including Pro icons) for free. It fetches the latest version of an icon directly from FontAwesome's website, and all icon families and styles are supported.
+`fontawesome-dl` is a command-line tool that allows you to download any FontAwesome icon (including Pro icons) for free. It fetches the latest version of an icon directly from [FontAwesome's website](https://fontawesome.com/search), and all icon families and styles are supported.
 
 ## Features
 
